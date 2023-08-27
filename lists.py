@@ -29,3 +29,11 @@ print(names)
 print()
 names.sort()
 print(names)
+print()
+# Retrieving ranges
+
+presenters = names[1:3]
+# Start and end index
+
+print(names)
+print(presenters)
